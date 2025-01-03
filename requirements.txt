@@ -1,0 +1,7 @@
+PyQt5==5.15.4
+geopandas==0.9.0
+rasterio==1.2.6
+numpy==1.21.0
+folium==0.12.1
+psycopg2==2.9.1
+matplotlib==3.4.2
